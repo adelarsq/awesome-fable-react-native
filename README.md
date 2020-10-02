@@ -4,10 +4,12 @@ An awesome list about to use [Fable](https://fable.io) with [ReactNative](https:
 
 ## Learn
 
+- [A ReactNative app](https://elmish.github.io/react/native.html) - introduction to Elmish plus React Native
 - [martinmoec/fable-react-native-how-to](https://github.com/martinmoec/fable-react-native-how-to) - short step-by-step guide
 
 ## Examples
 
+- [elmish/sample-rn-counter](https://github.com/elmish/sample-rn-counter) - simple counter app using ReactNative and Elmish
 - [SAFE-Stack/SAFE-Nightwatch](https://github.com/SAFE-Stack/SAFE-Nightwatch)
 - [martinmoec/Toodeloo-app-3910](https://github.com/martinmoec/Toodeloo-app-3910)
 
