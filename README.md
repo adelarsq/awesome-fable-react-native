@@ -17,6 +17,7 @@ An awesome list about to use [Fable](https://fable.io) with [ReactNative](https:
 
 - [martinmoec/Fable.ReactNative.DeviceInfo](https://github.com/martinmoec/Fable.ReactNative.DeviceInfo) - bindings for react-native-device-info
 - [martinmoec/Fable.ReactNative.FontAwesome](https://github.com/martinmoec/Fable.ReactNative.FontAwesome) - bindings for react-native-fontawesome
+- [martinmoec/Fable.ReactNative.ImagePicker](https://github.com/martinmoec/Fable.ReactNative.ImagePicker) - bindings for react-native-image-picker
 - [martinmoec/Fable.ReactNative.Navigation](https://github.com/martinmoec/Fable.ReactNative.Navigation) - bindings for the @react-navigation/native, @react-navigation/stack and @react-navigation/bottom-tabs modules
 
 ## Templates
