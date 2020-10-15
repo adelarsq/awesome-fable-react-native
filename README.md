@@ -25,7 +25,7 @@ An awesome list about to use [Fable](https://fable.io) with [ReactNative](https:
 
 ## Questions
 
-- [StackOverflow/How to setup fable-elmish-react native app?](https://stackoverflow.com/questions/47564041/how-to-setup-fable-elmish-react-native-app)
+- [StackOverflow - How to setup fable-elmish-react native app?](https://stackoverflow.com/questions/47564041/how-to-setup-fable-elmish-react-native-app)
 
 ## License
 
