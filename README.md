@@ -7,6 +7,10 @@ An awesome list about to use [Fable](https://fable.io) with [ReactNative](https:
 - [A ReactNative app](https://elmish.github.io/react/native.html) - introduction to Elmish plus React Native
 - [martinmoec/fable-react-native-how-to](https://github.com/martinmoec/fable-react-native-how-to) - short step-by-step guide
 
+## Articles
+
+- [Fable |> React Native – Native apps with F#](http://www.navision-blog.de/blog/2016/08/06/fable-react-native)
+
 ## Examples
 
 - [elmish/sample-rn-counter](https://github.com/elmish/sample-rn-counter) - simple counter app using ReactNative and Elmish
