@@ -19,6 +19,7 @@ An awesome list about to use [Fable](https://fable.io) with [ReactNative](https:
 
 ## Libraries
 
+- [carne8/Feliz.ReactNative](https://github.com/carne8/Feliz.ReactNative) - React Native bindings for [Feliz](https://github.com/Zaid-Ajaj/Feliz)
 - [martinmoec/Fable.ReactNative.DeviceInfo](https://github.com/martinmoec/Fable.ReactNative.DeviceInfo) - bindings for react-native-device-info
 - [martinmoec/Fable.ReactNative.FontAwesome](https://github.com/martinmoec/Fable.ReactNative.FontAwesome) - bindings for react-native-fontawesome
 - [martinmoec/Fable.ReactNative.ImagePicker](https://github.com/martinmoec/Fable.ReactNative.ImagePicker) - bindings for react-native-image-picker
