@@ -28,6 +28,7 @@ An awesome list about to use [Fable](https://fable.io) with [ReactNative](https:
 ## Templates
 
 - [martinmoec/fable-react-native-template](https://github.com/martinmoec/fable-react-native-template) - template project for starting a new Fable React Native app
+- [bobcat-pixel/fable-expo](https://github.com/bobcat-pixel/fable-expo) - Expo template for F# + Fable React Native
 
 ## Questions
 
